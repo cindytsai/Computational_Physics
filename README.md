@@ -1,4 +1,7 @@
 # Computational Physics
+> I will update whole content till the semester ends. </br>
+> Since I don't have time, and some of them are homeworks.
+
 Course _Computational Physics_ from NTU.</br>
 I will use c language.</br>
 Most of the content will be my note and some external links I think it's useful.
