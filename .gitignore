@@ -1,7 +1,7 @@
 *.out
 *.o
 *.exe
-*.pdf
+*.txt
 *.docx
 *.zip
 *.tmp
