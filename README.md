@@ -16,7 +16,7 @@ Most of the content will be my note and some external links I think it's useful.
 | Problem Set 5 |                                                             2D Ising Model                                                             |
 | Problem Set 6 |                                     LU-Decomposition, Inverse Matrix, Conjugate Gradient Algorithm                                     |
 | Problem Set 7 |                                        Solve ODE, Physical Pendulum, Real Time Graphics(OpenGL)                                        |
-| Problem Set 8 | Solve PDE, Vibrating String, Heat Diffusion, Real Time Graphics(OpenGL), Poisson Equation)Real Time Graphics(OpenGL), Poisson Equation |
+| Problem Set 8 | Solve PDE, Vibrating String, Heat Diffusion, Real Time Graphics(OpenGL), Poisson Equation|
 | Problem Set 9 |                             1D Real Scalar Field, 1D Scalar Field with &#955;&#966;<sup>4</sup> Interaction                            |
 
 * ![Lectures](https://github.com/cindytsai/Computational_Physics#lectures)
