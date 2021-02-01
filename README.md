@@ -5,6 +5,21 @@ I will use c language.</br>
 Most of the content will be my note and some external links I think it's useful.
 
 ## Contents
+* ![Assignments](https://github.com/cindytsai/Computational_Physics#assignments)
+
+|     Folder    |                                                                  Tags                                                                  |
+|:-------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| Problem Set 1 |                                                   Machine Precision, Differentiation                                                   |
+| Problem Set 2 |                                                               Integration                                                              |
+| Problem Set 3 |                                                  Random Walk, Monte Carlo Integration                                                  |
+| Problem Set 4 |                                                             Estimate Error                                                             |
+| Problem Set 5 |                                                             2D Ising Model                                                             |
+| Problem Set 6 |                                     LU-Decomposition, Inverse Matrix, Conjugate Gradient Algorithm                                     |
+| Problem Set 7 |                                        Solve ODE, Physical Pendulum, Real Time Graphics(OpenGL)                                        |
+| Problem Set 8 | Solve PDE, Vibrating String, Heat Diffusion, Real Time Graphics(OpenGL), Poisson Equation)Real Time Graphics(OpenGL), Poisson Equation |
+| Problem Set 9 |                             1D Real Scalar Field, 1D Scalar Field with &#955;&#966;<sup>4</sup> Interaction                            |
+
+* ![Lectures](https://github.com/cindytsai/Computational_Physics#lectures)
 
 ## Assignments
 
